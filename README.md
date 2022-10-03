@@ -5,6 +5,7 @@
 - [EE2255 Electronics](https://github.com/QinWenFeng/EE2255_Electronics)
 - [EE2310 Introduction to Programming](https://github.com/QinWenFeng/EE2310_Introduction-to-Programming)
 - [EE3640 Communication Systems I](https://github.com/QinWenFeng/EE3640_Communication-Systems-I)
+- [EE4292 IC Design Laboratory]
 
 ## CS
 - [CS1358 Introduction to Programming in Python](https://github.com/QinWenFeng/EE2310_Introduction-to-Programming)
