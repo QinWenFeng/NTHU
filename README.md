@@ -24,3 +24,7 @@
 - [EECS2070 Logic Design Laboratory]
 - [EECS3020 Introduction to Computer Networks]
 
+##IIS
+- [IIS5002 Network Security](https://github.com/QinWenFeng/IIS5002_Network-Security)
+- [IIS5004 Applied Cryptography](https://github.com/QinWenFeng/IIS5004_Applied-Cryptography)
+
