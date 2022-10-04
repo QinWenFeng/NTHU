@@ -4,17 +4,23 @@
 - [EE2210 Electric Circuits]
 - [EE2255 Electronics](https://github.com/QinWenFeng/EE2255_Electronics)
 - [EE2310 Introduction to Programming](https://github.com/QinWenFeng/EE2310_Introduction-to-Programming)
+- [EE2405 Embedded System laboratory](https://github.com/QinWenFeng/ee2405)
+- [EE3230 Introduction to Integrated Circuit Design]
+- [EE3235 Analog Integrated Circuits Analysis and Design I]
+- [EE3350 Introduction to Solid-State Electronic Devices]
 - [EE3640 Communication Systems I](https://github.com/QinWenFeng/EE3640_Communication-Systems-I)
+- [EE3660 Introduction to Digital Signal Processing]
 - [EE4292 IC Design Laboratory]
+- [EE5630 Digital Signal Processing]
 
 ## CS
 - [CS1358 Introduction to Programming in Python](https://github.com/QinWenFeng/EE2310_Introduction-to-Programming)
-- [CS3120 Introduction to Integrated Circuit Design]
 - [CS3332 Probability]
 - [CS3423 Operating Systems]
 - [CS4100 Computer Architecture](https://github.com/QinWenFeng/CS4100_Computer_Architecture)
 - [CS4602 Introduction to Machine Learning]
 - [CS4310 Design and Analysis of Algorithms]
+- [CS5319 Advanced Discrete Structure]
 - [CS6550 Computer Vision](https://github.com/QinWenFeng/CS6550_Computer-Vision)
 
 ## EECS
