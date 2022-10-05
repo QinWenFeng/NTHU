@@ -28,7 +28,7 @@
 - [EECS2020 Signals and Systems](https://github.com/QinWenFeng/EECS2020_Signals-and-Systems)
 - [EECS2030 Ordinary Differential Equations]
 - [EECS2040 Data Structures](https://github.com/QinWenFeng/EECS2040_Data-Structures)
-- [EECS2050 Linear Algebra]
+- [EECS2050 Linear Algebra](https://github.com/QinWenFeng/EECS2050_Linear-Algebra)
 - [EECS2070 Logic Design Laboratory]
 - [EECS3020 Introduction to Computer Networks]
 
