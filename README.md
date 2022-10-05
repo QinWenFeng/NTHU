@@ -29,6 +29,7 @@
 - [EECS2030 Ordinary Differential Equations]
 - [EECS2040 Data Structures](https://github.com/QinWenFeng/EECS2040_Data-Structures)
 - [EECS2050 Linear Algebra](https://github.com/QinWenFeng/EECS2050_Linear-Algebra)
+- [EECS2060 Discrete Mathematics](https://github.com/QinWenFeng/EECS2060_Discrete-Mathematics)
 - [EECS2070 Logic Design Laboratory]
 - [EECS3020 Introduction to Computer Networks]
 
