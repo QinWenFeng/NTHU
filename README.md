@@ -16,7 +16,7 @@
 ## CS
 - [CS1358 Introduction to Programming in Python](https://github.com/QinWenFeng/EE2310_Introduction-to-Programming)
 - [CS3332 Probability]
-- [CS3423 Operating Systems]
+- [CS3423 Operating Systems](https://github.com/QinWenFeng/CS3423_Operating-Systems)
 - [CS4100 Computer Architecture](https://github.com/QinWenFeng/CS4100_Computer_Architecture)
 - [CS4602 Introduction to Machine Learning]
 - [CS4310 Design and Analysis of Algorithms]
