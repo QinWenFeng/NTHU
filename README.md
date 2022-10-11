@@ -11,7 +11,7 @@
 - [EE6550 Machine Learning]
 
 ## CS
-- [CS1358 Introduction to Programming in Python](https://github.com/QinWenFeng/EE2310_Introduction-to-Programming) (110下/2022-Spring)
+- [CS1358 Introduction to Programming in Python](https://github.com/QinWenFeng/CS1358_Introduction-to-Programming-in-Python) (110下/2022-Spring)
 - [CS3332 Probability]
 - [CS3371 Formal Language & Automata]
 - [CS3423 Operating Systems](https://github.com/QinWenFeng/CS3423_Operating-Systems) (111上/2022-Fall)
