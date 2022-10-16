@@ -40,10 +40,10 @@
 - [IIS5004 Applied Cryptography](https://github.com/QinWenFeng/IIS5004_Applied-Cryptography) (110下/2022-Spring)
 
 ## ECON
-- [ECON1001 Principles of Economics (I)](https://github.com/QinWenFeng/ECON1001_Principles-of-Economics-I)
-- [ECON1002 Principles of Economics (II)](https://github.com/QinWenFeng/ECON1002_Principles-of-Economics-II)
-- [ECON2061 Microeconomics (I)]
+- [ECON1001 Principles of Economics (I)](https://github.com/QinWenFeng/ECON1001_Principles-of-Economics-I) (111上/2022-Fall)
+- [ECON1002 Principles of Economics (II)](https://github.com/QinWenFeng/ECON1002_Principles-of-Economics-II) (110下/2022-Spring)
+- [ECON2061 Microeconomics (I)](https://github.com/QinWenFeng/ECON2061_Microeconomics-I) (111上/2022-Fall)
 - [ECON2062 Microeconomics (II)]
-- [ECON3091 Macroeconomics (I)]
+- [ECON3091 Macroeconomics (I)](https://github.com/QinWenFeng/ECON3091_Macroeconomics-I) (111上/2022-Fall)
 - [ECON3092 Macroeconomics (II)]
 - [ECON4122 International Economics (II)]
